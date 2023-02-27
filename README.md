@@ -14,17 +14,20 @@
   💼 Libs and Tools: <strong>Angular 15.2, Marvels API, Google Maps API</strong>
 </p>
 </br>  
+
 <p align="center">
+  <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/inital_page.png" min-width="300px" max-width="500px" width="600px">
 
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/inital_page.png" min-width="300px" max-width="500px" width="600px">
+  <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/modal_card.png" min-width="300px" max-width="500px" width="600px">
+</p>
+<P align="center">
+  <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_page.png" min-width="300px" max-width="500px" width="300px">
 
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/modal_card.png" min-width="300px" max-width="500px" width="600px">
+  <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_card.png" min-width="300px" max-width="500px" width="300px">
+</p>
 
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_page.png" min-width="300px" max-width="500px" width="300px">
-
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_card.png" min-width="300px" max-width="500px" width="300px">
----------------
-
+<p align="center">
+  
 Initial Purpose
 ---------------
    The initial proposal was to develop a frontend application to consume Marvel and Google Maps APIs.
