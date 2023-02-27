@@ -16,9 +16,12 @@
 </br>  
 <p align="center">
 
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/inital_page.png" min-width="300px" max-width="500px" width="500px">
-<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/modal_card.png" min-width="300px" max-width="500px" width="500px">
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/inital_page.png" min-width="300px" max-width="500px" width="600px">
+
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/modal_card.png" min-width="300px" max-width="500px" width="600px">
+
 <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_page.png" min-width="300px" max-width="500px" width="300px">
+
 <img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_card.png" min-width="300px" max-width="500px" width="300px">
 ---------------
 
