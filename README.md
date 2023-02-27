@@ -1,27 +1,58 @@
-# DsMarvelSuperHeroes
+# MarvelHQs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Marvel_HQ_logo.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-## Development server
+<p align="left"> 
+   An application for sending marvel comics to chosen locations on the map.
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="left">
+  :space_invader: Languages: <strong>Typescript</strong>
+</p>
 
-## Code scaffolding
+<p align="left">
+  💼 Libs and Tools: <strong>Angular 15.2, Marvels API, Google Maps API</strong>
+</p>
+</br>  
+<p align="center">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+---------------
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Initial Purpose
+---------------
+   The initial proposal was to develop a frontend application to consume Marvel and Google Maps APIs.
+The application should be a Single Page Application (SPA) for querying comics using the Marvel API for data collection.
+The application should contain a list of comics, a modal detailing the comics and sending the comics to an address selected on the map through the Google Maps API.
 
-## Running unit tests
+The Challengers  
+---------------
+   I found many challenges when carrying out this application, among them the use of a new framework for me, Angular, can be highlighted. Even knowing about the principles of frontend development, using a new framework was really exciting. Furthermore, it was the first time I consumed these APIs in question, having to learn each one of them step by step to get the best result in my application. Furthermore, I was being limited by time, as I only had 72 hours to carry out this project, as it would be presented in a job vacancy. All in all, this project gave me a lot of learning and being able to do something really cool in a short period of time.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Conclusion
+----------
+      
+It can be concluded that it was a really challenging project due to the time factor, but that it gave me many positive experiences, as well as new knowledge. Learning a framework, reviewing the concepts of html, css and typescript, as well as learning to consume a highly relevant API in the market, which is Google Maps. It really was a very good experience, however, there is still a long way to go to be a complete application. For future updates, they may have a search bar, an e-commerce simulation or even a visual improvement.
 
-## Running end-to-end tests
+Getting Started
+---------------
+- Cloning this repository    
+   open the terminal and type the commands
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+      git clone https://github.com/DsAlex-lnx/MarvelHQ.git
+      cd MarvelHQ/
 
-## Further help
+- Installing node_modules
+   
+      npm init
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Install all required dependencies
+
+- Define Marvel API keys in envonriment file
+
+- Define Google Maps API keys in index.html file
+
+- Running the Angular Project
+ 
+      npm start
+
