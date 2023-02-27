@@ -1,6 +1,6 @@
 # MarvelHQs
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Marvel_HQ_logo.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Marvel_HQ_logo.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Marvel HQ">
 
 <p align="left"> 
    An application for sending marvel comics to chosen locations on the map.
@@ -16,7 +16,10 @@
 </br>  
 <p align="center">
 
-
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/inital_page.png" min-width="300px" max-width="500px" width="500px">
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/modal_card.png" min-width="300px" max-width="500px" width="500px">
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_page.png" min-width="300px" max-width="500px" width="200px">
+<img src="https://github.com/DsAlex-lnx/MarvelHQ/blob/master/src/assets/to_readme/mobile_card.png" min-width="300px" max-width="500px" width="200px">
 ---------------
 
 Initial Purpose
