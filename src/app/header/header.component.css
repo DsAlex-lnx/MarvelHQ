@@ -1,0 +1,25 @@
+header{
+    background: #202020;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 50%, rgba(0,0,0,1) 100%);
+}
+.navbar-brand {
+    margin-right: 20px;
+}
+
+.navbar-brand img{
+    margin-left: 0rem;
+}
+
+  
+@media (max-width: 767px) {
+    .navbar-brand {
+      margin-right: 0;
+    }
+}
+
+@media (min-width: 768px) {
+.navbar-brand img {
+    width: 200px;
+    height: auto;
+    }
+}

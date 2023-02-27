@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="card-list">
+        <div *ngFor="let comic of marvelService.comics | paginate: {itemsPerPage: itemsPerPage, currentPage: page}" class="col">
+            <app-hq-card [comic]="comic"></app-hq-card>
+        </div>
+    </div>
+</div>
+<div class="pagination">
+    <pagination-controls (pageChange)="page = $event"></pagination-controls>
+</div>

@@ -1,0 +1,7 @@
+<div class="comic-card" (click)="openModal()">
+    <img [src]="comic.thumbnail ? comic.thumbnail.path + '.' + comic.thumbnail.extension : 'http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg'" alt="{{ comic.title }}" class="card-img-top">
+
+    <div class="comic-details">
+        <h4 class="comic-title">{{ comic.title }}</h4>
+    </div>
+</div>
